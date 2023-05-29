@@ -31,8 +31,6 @@ p {
 
 input,
 input:focus,
-button,
-button:focus,
 textarea {
     all: unset;
     border: none;
